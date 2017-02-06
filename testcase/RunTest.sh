@@ -1,0 +1,26 @@
+python testSetup.py
+echo 'Testing with JSON file containing 100 records -sample_json_100_docs.json'
+python push_tokenNotPresent_streamPresent_Json100_fail.py
+python push_tokenPresent_streamWrongformat_Json100_fail.py
+python push_tokenPresent_streamInactive_Json100_fail.py
+python push_tokenPresent_streamActive_Json100_pass.py
+echo 'Testing with JSON file containing 2000 records -sample_json_2000_docs.json'
+python push_tokenNotPresent_streamPresent_Json2000_fail.py
+python push_tokenPresent_streamWrongformat_Json2000_fail.py
+python push_tokenPresent_streamInactive_Json2000_fail.py
+python push_tokenPresent_streamActive_Json2000_pass.py
+echo 'Testing with CSV file containing 11941 records -LebronJames_sample_docs.csv'
+python push_tokenNotPresent_streamPresent_csv_fail.py
+python push_tokenPresent_streamWrongformat_csv_fail.py
+python push_tokenPresent_streamInactive_csv_fail.py
+python push_tokenPresent_streamActive_csv_pass.py
+echo 'Testing with XML file containing 3 records -LebronJames_sample_docs.csv'
+python push_tokenNotPresent_streamPresent_xml_fail.py
+python push_tokenPresent_streamWrongformat_xml_fail.py
+python push_tokenPresent_streamInactive_xml_fail.py
+python push_tokenPresent_streamActive_xml_pass.py
+echo 'Get Log Results' 
+python log_tokenNotpresent_streamActive_fail.py
+python log_tokenPresent_streamWrongFormat_fail.py
+python log_tokenPresent_streamInactive_fail.py
+python log_tokenPresent_streamActive_pass.py

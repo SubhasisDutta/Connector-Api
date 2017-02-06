@@ -1,0 +1,61 @@
+#Configuration for Access Attributes
+[ServerConnection]
+Server.Port=8888
+Server.Debug=True
+GetLogs.Limit=20
+Webservice.Push=push
+Webservice.Log=log
+Webservice.CreateToken=createToken
+Webservice.ValidateToken=validateToken
+WebApp.title=Connector API
+[CouchDBConnection]
+Couch.ServerURL=http://127.0.0.1:5984
+Couch.TokenStreamDatabase=api_tokens
+Couch.DocumentDatabaseNameFormat=z_~streamId~_api_docs
+Couch.LogsDatabase=api_logs
+[AccessParameters]
+Access.Token=accessToken
+Access.Identifier=streamId
+
+[IdentifierFormat]
+Identifier.Format=^[0-9]+-[0-9]+$
+
+#General Message
+[GeneralMsg]
+Status.success=success
+Status.fail=fail
+Identifier.Active=ACTIVE
+Valid.Token.Identifier=Token and Stream ID is Valid.
+#Error Messages
+[ErrorMsg]
+ContentType.Unsupported=Bad Content Type
+Identifier.InvalidFormat=Invalid Stream ID Format.
+Token.Invalid=Invalid Token.
+Invalid.Token.Identifier=Stream ID is InValid or is INACTIVE.
+Invalid.Identifier=Stream ID format Invalid.
+Invalid.Push=Invalid Request
+#Logging
+[Logging]
+Logger.File=log/applicationLog.log
+Logger.Level=DEBUG
+# Level's Available : CRITICAL,ERROR,WARNING,INFO,DEBUG
+Logger.HomeMessage1=Call made to Home From : 
+Logger.GetMessage1=Call made to Get Logs From :
+Logger.GetMessage2=Creating New Log DataStore for Logs
+Logger.GetMessage3=Log Success -- Requested for Token :
+Logger.GetMessage4=Log Fail -- Requested for Token :
+Logger.PostMessage1=Call made to Post Docs From :
+Logger.PostMessage2=Post using JSON Content
+Logger.PostMessage3=Post using XML Content
+Logger.PostMessage4=Post using CSV Content
+Logger.PostMessage5=Wrong Format of Content Type Token :
+Logger.PostMessage6=Success Log Document with DocID : 
+Logger.PostMessage7=Fail Log Push --
+Logger.PostMessage8=JSON Format Unicode
+Logger.PostMessage9=JSON Format Error
+Logger.PostMessage10=Token Validation Failed : 
+Logger.PostMessage11=XML Parse Error
+Logger.PostMessage12=Token Validation Failed : 
+Logger.PostMessage13=Token Validation Failed :
+Logger.PostMessage14=Document Saving Failed
+Logger.PostMessage15=No. of documents saved 

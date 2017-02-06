@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Message>
+  <Header>
+    <Source>
+      <SavedSearch FeedPartnerID="1321-1321" SearchGUID="y">
+        <SearchQuery>president +(Page.BroadcastMetadata.Market.DMARank:[000000000000 TO 000000000010] OR Page.BroadcastMetadata.Market.MarketID:000000000001)</SearchQuery>
+        <ParsedSearchQuery>+content:president +(Page.BroadcastMetadata.Market.DMARank:[000000000000 TO 000000000010] Page.BroadcastMetadata.Market.MarketID:000000000001)</ParsedSearchQuery>
+        <Destination>http://localhost</Destination>
+      </SavedSearch>
+    </Source>
+    <Destination>http://localhost</Destination>
+  </Header>
+  <Body>
+    <Excerpts>
+      <TranscriptExcerpt LineDateTime="2012-03-12 07:04:58.073" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:04:58.073"><![CDATA[>>> AND THE WHITE HOUSE AND PENTAGON IN FULL DAMAGE MODE THIS MORNING. AND <B>PRESIDENT</B> OBAMA HAS ISSUED A QUICK RESPONSE. JAKE TAPPER IS AT THE WHITE HOUSE WITH THAT. GOOD MORNING, JAKE. >> Reporter: GOOD MORNING, ROBIN. THAT'S RIGHT, <B>PRESIDENT</B> OBAMA DID NOT EVEN WANT TO WAIT FOR DAYTIME IN AFGHANISTAN BEFORE HE CALLED <B>PRESIDENT</B> KARZAI. HIS MESSAGES WERE TWO-FOLD. ONE, HE WANTED THE <B>PRESIDENT</B> OF AFGHANISTAN TO KNOW THAT THE U.S. TAKES THESE CIVILIAN CASUALTIES JUST AS SERIOUSLY AS IF THEY WERE AMERICAN CIVILIAN CASUALTIES. AND THE SECOND IS THAT THERE WILL BE ACCOUNTABILITY FOR THE SOLDIER. THEY WANT TO MAKE SURE THAT ANYONE RESPONSIBLE, THEY THINK BE HELD FULLY ACCOUNTABLE, IT'S JUST THIS ONE SOLDIER, WILL ROBIN. >> JAKE, ON THE HEELS OF]]></TranscriptExcerpt>
+    </Excerpts>
+    <Page BreakType="BreakString" Duration="124.983" PageID="a50d5342-b1aa-4988-80ad-2215659b8bde" StationGUID="KABC" StationID="785">
+      <BroadcastMetadata>
+        <Station StationID="785" UniqueIdentifier="KABC">
+          <CallSign>KABC</CallSign>
+          <StationName>KABC-LA (ABC)</StationName>
+          <MarketID>120</MarketID>
+          <Location>Los Angeles, CA</Location>
+          <GMTOffset>-8</GMTOffset>
+          <GMTOffsetMinutes>0</GMTOffsetMinutes>
+          <TextType>1</TextType>
+          <RightToLeft>0</RightToLeft>
+          <PhoneticType>0</PhoneticType>
+          <MediaType>1</MediaType>
+          <Active>1</Active>
+          <SortOrder>5</SortOrder>
+          <IsUnicode>0</IsUnicode>
+          <Website/>
+          <MediaProcessType>0</MediaProcessType>
+          <MediaPurchase>0</MediaPurchase>
+          <NationalNetwork>ABC</NationalNetwork>
+          <PrimaryLanguage>en-us</PrimaryLanguage>
+          <MediaStationID>785</MediaStationID>
+          <TimeZoneIdentifier>America/Los_Angeles</TimeZoneIdentifier>
+          <SiteID>0</SiteID>
+          <RoviTVDataSourceID>5</RoviTVDataSourceID>
+          <RoviFTPRemoteDir>RV1-0_Bnd_Infrm_US</RoviFTPRemoteDir>
+          <CaptureLocation>Los Angeles</CaptureLocation>
+          <MarketName>Los Angeles, CA</MarketName>
+        </Station>
+        <ProgramInfo ProgramDateTime="03/12/2012 07:00:00" ProgramEndDateTime="03/12/2012 09:00:00" ProgramInfoID="32714795">
+          <Station>KABC</Station>
+          <Title>Good Morning America</Title>
+          <Type/>
+          <Category>News</Category>
+          <Description/>
+          <CC>CC</CC>
+          <Live>New</Live>
+          <SynNumber>0</SynNumber>
+          <ProgramOrigin>ABC</ProgramOrigin>
+          <SynNum/>
+          <ProgramID>20250981</ProgramID>
+          <ScheduleID>1239958417</ScheduleID>
+          <RecordDateTime>2/28/2012 12:00:00 AM</RecordDateTime>
+          <RoviRemotePath>RV1-0_Bnd_Infrm_US</RoviRemotePath>
+          <ProgramDuration>7200</ProgramDuration>
+        </ProgramInfo>
+        <ViewershipData>
+          <LocalViewershipData>
+            <DMAHouseholdRating>2.231</DMAHouseholdRating>
+            <DMAHouseholdUsage>25.484</DMAHouseholdUsage>
+            <DMAHouseholdShare>8.754</DMAHouseholdShare>
+            <DMAHouseholdCount>126281</DMAHouseholdCount>
+            <TotalHouseholdCount>127834</TotalHouseholdCount>
+            <ProgramName>GD MRN AMR-ABC</ProgramName>
+            <NielsenDayCode>M-F</NielsenDayCode>
+            <NielsenStationGUID>KABC        </NielsenStationGUID>
+            <ReportDateTime>7/29/2010 12:00:00 AM</ReportDateTime>
+            <QuarterHourStartTime>700</QuarterHourStartTime>
+            <DMADemos>
+              <DMAChildren2to5>781</DMAChildren2to5>
+              <DMAChildren6to11>2630</DMAChildren6to11>
+              <DMAMen12to17>793</DMAMen12to17>
+              <DMAWomen12to17>240</DMAWomen12to17>
+              <DMAMen18to20>0</DMAMen18to20>
+              <DMAMen21to24>158</DMAMen21to24>
+              <DMAMen25to34>2429</DMAMen25to34>
+              <DMAMen35to49>6191</DMAMen35to49>
+              <DMAMen50to54>4746</DMAMen50to54>
+              <DMAMen55to64>12933</DMAMen55to64>
+              <DMAMen65plus>14685</DMAMen65plus>
+              <DMAWomen18to20>134</DMAWomen18to20>
+              <DMAWomen21to24>280</DMAWomen21to24>
+              <DMAWomen25to34>5499</DMAWomen25to34>
+              <DMAWomen35to49>22536</DMAWomen35to49>
+              <DMAWomen50to54>9692</DMAWomen50to54>
+              <DMAWomen55to64>24247</DMAWomen55to64>
+              <DMAWomen65plus>42949</DMAWomen65plus>
+            </DMADemos>
+            <TotalDemos>
+              <TotalChildren2to5>791</TotalChildren2to5>
+              <TotalChildren6to11>2662</TotalChildren6to11>
+              <TotalMen12to17>803</TotalMen12to17>
+              <TotalWomen12to17>244</TotalWomen12to17>
+              <TotalMen18to20>0</TotalMen18to20>
+              <TotalMen21to24>160</TotalMen21to24>
+              <TotalMen25to34>2458</TotalMen25to34>
+              <TotalMen35to49>6267</TotalMen35to49>
+              <TotalMen50to54>4805</TotalMen50to54>
+              <TotalMen55to64>13092</TotalMen55to64>
+              <TotalMen65plus>14865</TotalMen65plus>
+              <TotalWomen18to20>135</TotalWomen18to20>
+              <TotalWomen21to24>283</TotalWomen21to24>
+              <TotalWomen25to34>5566</TotalWomen25to34>
+              <TotalWomen35to49>22812</TotalWomen35to49>
+              <TotalWomen50to54>9811</TotalWomen50to54>
+              <TotalWomen55to64>24545</TotalWomen55to64>
+              <TotalWomen65plus>43477</TotalWomen65plus>
+            </TotalDemos>
+            <LocalAdRate>
+              <IssueDate>3/1/2012 12:00:00 AM</IssueDate>
+              <DataYear>1/1/2012 12:00:00 AM</DataYear>
+              <DataQuarter>1</DataQuarter>
+              <DayPart Code="EM" ID="8">Early Morning</DayPart>
+              <AdRates>
+                <AdRate LevelID="0" LevelName="AVG">645</AdRate>
+                <AdRate LevelID="1" LevelName="LOW">593</AdRate>
+                <AdRate LevelID="2" LevelName="HIGH">744</AdRate>
+              </AdRates>
+            </LocalAdRate>
+          </LocalViewershipData>
+          <NationalViewershipData>
+            <EventDateTime>2/13/2012 7:00:00 AM</EventDateTime>
+            <ACNNetworkCode>ABC</ACNNetworkCode>
+            <StartTime>700</StartTime>
+            <EndTime>815</EndTime>
+            <ProgramName>GOOD MORNING, AMERICA</ProgramName>
+            <EpisodeName/>
+            <TelecastNumber>5000</TelecastNumber>
+            <Repeat>True</Repeat>
+            <StationCount>249</StationCount>
+            <NationalProgramCoveragePercent>0</NationalProgramCoveragePercent>
+            <TotalUSProjection>4462767</TotalUSProjection>
+            <TotalUSRating>3.9</TotalUSRating>
+            <TotalAudienceProjection>8381592</TotalAudienceProjection>
+            <TotalAudienceRating>7.3</TotalAudienceRating>
+            <NielsenNationalDemographic>
+              <FemaleChildren2to5>29925</FemaleChildren2to5>
+              <FemaleChildren6to8>5385</FemaleChildren6to8>
+              <FemaleChildren9to11>24530</FemaleChildren9to11>
+              <FemaleTeens12to14>17007</FemaleTeens12to14>
+              <FemaleTeens15to17>30462</FemaleTeens15to17>
+              <Women18to20>12323</Women18to20>
+              <Women21to24>34902</Women21to24>
+              <Women25to29>109307</Women25to29>
+              <Women30to34>110407</Women30to34>
+              <Women35to39>193116</Women35to39>
+              <Women40to44>365276</Women40to44>
+              <Women45to49>302662</Women45to49>
+              <Women50to54>417879</Women50to54>
+              <Women55to64>734603</Women55to64>
+              <Women65Plus/>
+              <MaleChildren2to5>18837</MaleChildren2to5>
+              <MaleChildren6to8>5577</MaleChildren6to8>
+              <MaleChildren9to11>26381</MaleChildren9to11>
+              <MaleTeens12to14>25327</MaleTeens12to14>
+              <MaleTeens15to17>15133</MaleTeens15to17>
+              <Men18to20>28124</Men18to20>
+              <Men21to24>26551</Men21to24>
+              <Men25to29>50379</Men25to29>
+              <Men30to34>66552</Men30to34>
+              <Men35to39>101385</Men35to39>
+              <Men40to44>120757</Men40to44>
+              <Men45to49>181481</Men45to49>
+              <Men50to54>190265</Men50to54>
+              <Men55to64>365761</Men55to64>
+              <Men65Plus/>
+              <LOH18to49>0</LOH18to49>
+              <WorkingWomen18to20>6053</WorkingWomen18to20>
+              <WorkingWomen21to24>13446</WorkingWomen21to24>
+              <WorkingWomen25to34>118575</WorkingWomen25to34>
+              <WorkingWomen35to44>311168</WorkingWomen35to44>
+              <WorkingWomen45to49>150099</WorkingWomen45to49>
+              <WorkingWomen50to54>245803</WorkingWomen50to54>
+              <WorkingWomen55Plus/>
+              <LOH50Plus>0</LOH50Plus>
+            </NielsenNationalDemographic>
+            <NationalViewershipHouseholdData>
+              <HouseholdHalfHourProjection>4678534</HouseholdHalfHourProjection>
+              <HouseholdHalfHourTotalUSRating>4.1</HouseholdHalfHourTotalUSRating>
+              <TotalUSHouseholdUniverseEstimate>30571889</TotalUSHouseholdUniverseEstimate>
+              <HouseholdHalfHourTotalUSShare>15</HouseholdHalfHourTotalUSShare>
+              <FirstQuarterHourAudienceProjection>4798815</FirstQuarterHourAudienceProjection>
+              <FirstQuarterHourTotalUSRating>4.2</FirstQuarterHourTotalUSRating>
+              <SecondQuarterHourAudienceProjection>4558253</SecondQuarterHourAudienceProjection>
+              <SecondQuarterHourTotalUSRating>0.0</SecondQuarterHourTotalUSRating>
+            </NationalViewershipHouseholdData>
+            <NationalAdRate>
+              <DayPart Code="EM">
+                <Name>Early Morning           </Name>
+                <StartTime>600</StartTime>
+                <EndTime>900</EndTime>
+                <Monday>True</Monday>
+                <Tuesday>True</Tuesday>
+                <Wednesday>True</Wednesday>
+                <Thursday>True</Thursday>
+                <Friday>True</Friday>
+                <Saturday>True</Saturday>
+                <Sunday>True</Sunday>
+              </DayPart>
+              <CostEfficiencyType>CPM</CostEfficiencyType>
+              <BuyType>UPFRONT</BuyType>
+              <Demographic>W25-54</Demographic>
+              <AverageCost>30.690</AverageCost>
+              <Cost1>33.970</Cost1>
+              <Cost2>26.250</Cost2>
+              <Cost3>32.840</Cost3>
+              <Cost4>29.710</Cost4>
+            </NationalAdRate>
+          </NationalViewershipData>
+          <!--No Cable Viewership Data Found-->
+        </ViewershipData>
+        <Market MarketID="120" MarketName="Los Angeles, CA">
+          <Country>US</Country>
+          <State>CA</State>
+          <Latitude>34.052187</Latitude>
+          <Longitude>-118.243425</Longitude>
+          <DMARank>2</DMARank>
+        </Market>
+        <ExtendedProgramInfo>
+          <Schedule RoviRemotePath="RV1-0_Bnd_Infrm_US" ScheduleID="1239958417">
+            <Program ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+              <ShowType>SE</ShowType>
+              <SeriesID>3728</SeriesID>
+              <SeasonProgramID>0</SeasonProgramID>
+              <VariantParentID/>
+              <TitleParentID/>
+              <GroupID>3022390456</GroupID>
+              <IsGroupLanguagePrimary>Y         </IsGroupLanguagePrimary>
+              <LongTitle>Good Morning America</LongTitle>
+              <MediumTitle>Good Morning America</MediumTitle>
+              <ShortTitle>Good Morning America</ShortTitle>
+              <GridTitle>Good Morn. Am.</GridTitle>
+              <Grid2Title>GMA</Grid2Title>
+              <AliasTitle/>
+              <AliasTitle2/>
+              <AliasTitle3/>
+              <AliasTitle4/>
+              <OriginalTitle>Good Morning America</OriginalTitle>
+              <OriginalEpisodeTitle/>
+              <Category>News</Category>
+              <SportsSubtitle/>
+              <EpisodeTitle/>
+              <EpisodeNumber>03122012</EpisodeNumber>
+              <RunTime>7200</RunTime>
+              <ReleaseYear>2012</ReleaseYear>
+              <RecordLanguages>en</RecordLanguages>
+              <Syndicated>N</Syndicated>
+              <USOriginalAirDate>20120312</USOriginalAirDate>
+              <EventDate/>
+              <HDTVLevel>720p</HDTVLevel>
+              <AudioLevel>Stereo</AudioLevel>
+              <MovieType/>
+              <ColorType>Color</ColorType>
+              <Delta>Upd</Delta>
+              <RecordDateTime>3/9/2012 12:00:00 AM</RecordDateTime>
+              <Credits>
+                <ProgramCredit ProgramCreditID="29384685" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>578913</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Host</CreditType>
+                  <FirstName>Robin</FirstName>
+                  <LastName>Roberts</LastName>
+                  <FullCreditName>Robin Roberts</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>4</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="29384686" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>283794</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Host</CreditType>
+                  <FirstName>George</FirstName>
+                  <LastName>Stephanopoulos</LastName>
+                  <FullCreditName>George Stephanopoulos</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>5</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="29384687" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>563146</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Anchor</CreditType>
+                  <FirstName>Josh</FirstName>
+                  <LastName>Elliott</LastName>
+                  <FullCreditName>Josh Elliott</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>7</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="29384688" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>185807</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Anchor</CreditType>
+                  <FirstName>Lara</FirstName>
+                  <LastName>Spencer</LastName>
+                  <FullCreditName>Lara Spencer</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>8</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="29384689" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>420134</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Reporter</CreditType>
+                  <FirstName>Sam</FirstName>
+                  <LastName>Champion</LastName>
+                  <FullCreditName>Sam Champion</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>9</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="29384690" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>347407</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Executive Producer</CreditType>
+                  <FirstName>Tom</FirstName>
+                  <LastName>Cibrowski</LastName>
+                  <FullCreditName>Tom Cibrowski</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>10</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="29384691" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>283191</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Executive Producer</CreditType>
+                  <FirstName>James</FirstName>
+                  <LastName>Goldston</LastName>
+                  <FullCreditName>James Goldston</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>11</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="29384692" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>0</CreditID>
+                  <OrgID>664112</OrgID>
+                  <CreditType>Production Company</CreditType>
+                  <FirstName/>
+                  <LastName>ABC News</LastName>
+                  <FullCreditName>ABC News</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>12</SequenceNumber>
+                  <Delta>Upd</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="30094849" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>345359</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Guest</CreditType>
+                  <FirstName>Joan</FirstName>
+                  <LastName>Lunden</LastName>
+                  <FullCreditName>Joan Lunden</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>1</SequenceNumber>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="30094850" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>726822</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Guest</CreditType>
+                  <FirstName>Bryan</FirstName>
+                  <LastName>Voltaggio</LastName>
+                  <FullCreditName>Bryan Voltaggio</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>2</SequenceNumber>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="30094851" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>726835</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Guest</CreditType>
+                  <FirstName>Michael</FirstName>
+                  <LastName>Voltaggio</LastName>
+                  <FullCreditName>Michael Voltaggio</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>3</SequenceNumber>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+                <ProgramCredit ProgramCreditID="30094852" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <CreditID>101581</CreditID>
+                  <OrgID>0</OrgID>
+                  <CreditType>Reporter</CreditType>
+                  <FirstName>Elisabeth</FirstName>
+                  <LastName>Hasselbeck</LastName>
+                  <FullCreditName>Elisabeth Hasselbeck</FullCreditName>
+                  <PartName/>
+                  <SequenceNumber>6</SequenceNumber>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramCredit>
+              </Credits>
+              <Genres>
+                <ProgramGenre ProgramGenreID="16090307" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <Genre>newsmagazine</Genre>
+                  <GenreSequence>1</GenreSequence>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>2/28/2012 12:00:00 AM</RecordDateTime>
+                </ProgramGenre>
+                <ProgramGenre ProgramGenreID="16090308" ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <Genre>talk</Genre>
+                  <GenreSequence>2</GenreSequence>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>2/28/2012 12:00:00 AM</RecordDateTime>
+                </ProgramGenre>
+              </Genres>
+              <Descriptions>
+                <ProgramDescription ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <SourceID>0</SourceID>
+                  <DescriptionCulture>English - NA</DescriptionCulture>
+                  <ProgramDescriptionType>Generic Description</ProgramDescriptionType>
+                  <ProgramDescription>Joan Lunden; chefs Bryan and Michael Voltaggio. Also: a "Desperate Housewives" update; an Elisabeth Hasselbeck report on housing bargains.</ProgramDescription>
+                  <MovieReviewCredit/>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>3/8/2012 12:00:00 AM</RecordDateTime>
+                </ProgramDescription>
+              </Descriptions>
+              <MovieRatings/>
+              <TVRatings>
+                <ProgramTVRating ProgramID="20250981" ProgramRatingID="20373444" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                  <TVRatingType>US TV</TVRatingType>
+                  <TVRating/>
+                  <TVAdvisory/>
+                  <Delta>Ins</Delta>
+                  <RecordDateTime>2/28/2012 12:00:00 AM</RecordDateTime>
+                </ProgramTVRating>
+              </TVRatings>
+              <ProgramOriginalCountry ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                <OriginCountry>United States</OriginCountry>
+                <Delta>Ins</Delta>
+                <ProgramCountryOriginID>5987603</ProgramCountryOriginID>
+                <RecordDateTime>2/28/2012 12:00:00 AM</RecordDateTime>
+              </ProgramOriginalCountry>
+              <ProgramOriginalLanguage ProgramID="20250981" RoviRemotePath="RV1-0_Bnd_Infrm_US">
+                <OriginalLanguage>en</OriginalLanguage>
+                <Delta>Ins</Delta>
+                <ProgramLanguageID>14885360</ProgramLanguageID>
+                <RecordDateTime>2/28/2012 12:00:00 AM</RecordDateTime>
+              </ProgramOriginalLanguage>
+            </Program>
+            <SourceID>5</SourceID>
+            <StartDate>20120312</StartDate>
+            <StartTime>14:00</StartTime>
+            <IsTimeApproximate>N</IsTimeApproximate>
+            <Duration>7200</Duration>
+            <ProgramID>20250981</ProgramID>
+            <SeriesID>3728</SeriesID>
+            <TVRating/>
+            <TVAdvisory/>
+            <ProgramShowingType/>
+            <CaptionType>CC</CaptionType>
+            <AudioLevel>Stereo</AudioLevel>
+            <SAP>N</SAP>
+            <ColorType>Color</ColorType>
+            <AiringType>New</AiringType>
+            <Subtitled>N</Subtitled>
+            <JoinedInProgress>N         </JoinedInProgress>
+            <SubjectToBlackout>N         </SubjectToBlackout>
+            <AspectRatio>4:3 Fullscreen</AspectRatio>
+            <DescriptiveVideoService>N</DescriptiveVideoService>
+            <PartNumber>0</PartNumber>
+            <TotalNumberOfParts>0</TotalNumberOfParts>
+            <HDTVLevel/>
+            <Syndicated>N</Syndicated>
+            <Delta>Ins</Delta>
+            <UTCDateTime>3/12/2012 2:00:00 PM</UTCDateTime>
+            <LocalDateTime>3/12/2012 7:00:00 AM</LocalDateTime>
+            <RecordDateTime>2/28/2012 12:00:00 AM</RecordDateTime>
+          </Schedule>
+        </ExtendedProgramInfo>
+        <TranscriptUrl>http://mms.tveyes.com/transcript.asp?StationID=785&amp;DateTime=03%2f12%2f2012+07%3a04%3a58&amp;Duration=125&amp;PlayClip=true</TranscriptUrl>
+      </BroadcastMetadata>
+      <Lines>
+        <Line LineDateTime="2012-03-12 07:04:58.073" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:04:58.073">&gt;&gt; AND THE WHITE HOUSE AND</Line>
+        <Line LineDateTime="2012-03-12 07:04:58.074" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:04:58.074">PENTAGON IN FULL DAMAGE MODE</Line>
+        <Line LineDateTime="2012-03-12 07:04:59.075" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:04:59.075">THIS MORNING.</Line>
+        <Line LineDateTime="2012-03-12 07:04:59.076" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:04:59.076">AND PRESIDENT OBAMA HAS ISSUED A</Line>
+        <Line LineDateTime="2012-03-12 07:05:00.077" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:00.077">QUICK RESPONSE.</Line>
+        <Line LineDateTime="2012-03-12 07:05:02.078" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:02.078">JAKE TAPPER IS AT THE WHITE</Line>
+        <Line LineDateTime="2012-03-12 07:05:02.079" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:02.079">HOUSE WITH THAT.</Line>
+        <Line LineDateTime="2012-03-12 07:05:03.080" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:03.080">GOOD MORNING, JAKE.</Line>
+        <Line LineDateTime="2012-03-12 07:05:04.081" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:04.081">&gt;&gt; Reporter: GOOD MORNING,</Line>
+        <Line LineDateTime="2012-03-12 07:05:04.082" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:04.082">ROBIN.</Line>
+        <Line LineDateTime="2012-03-12 07:05:06.083" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:06.083">THAT'S RIGHT, PRESIDENT OBAMA</Line>
+        <Line LineDateTime="2012-03-12 07:05:08.084" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:08.084">DID NOT EVEN WANT TO WAIT FOR</Line>
+        <Line LineDateTime="2012-03-12 07:05:09.085" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:09.085">DAYTIME IN AFGHANISTAN BEFORE HE</Line>
+        <Line LineDateTime="2012-03-12 07:05:11.086" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:11.086">CALLED PRESIDENT KARZAI.</Line>
+        <Line LineDateTime="2012-03-12 07:05:13.087" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:13.087">HIS MESSAGES WERE TWO-FOLD.</Line>
+        <Line LineDateTime="2012-03-12 07:05:15.088" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:15.088">ONE, HE WANTED THE PRESIDENT OF</Line>
+        <Line LineDateTime="2012-03-12 07:05:20.089" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:20.089">AFGHANISTAN TO KNOW THAT THE</Line>
+        <Line LineDateTime="2012-03-12 07:05:22.090" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:22.090">U.S. TAKES THESE CIVILIAN</Line>
+        <Line LineDateTime="2012-03-12 07:05:24.091" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:24.091">CASUALTIES JUST AS SERIOUSLY AS</Line>
+        <Line LineDateTime="2012-03-12 07:05:25.092" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:25.092">IF THEY WERE AMERICAN CIVILIAN</Line>
+        <Line LineDateTime="2012-03-12 07:05:27.093" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:27.093">CASUALTIES.</Line>
+        <Line LineDateTime="2012-03-12 07:05:27.094" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:27.094">AND THE SECOND IS THAT THERE</Line>
+        <Line LineDateTime="2012-03-12 07:05:28.095" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:28.095">WILL BE ACCOUNTABILITY FOR THE</Line>
+        <Line LineDateTime="2012-03-12 07:05:29.096" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:29.096">SOLDIER.</Line>
+        <Line LineDateTime="2012-03-12 07:05:30.097" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:30.097">THEY WANT TO MAKE SURE THAT</Line>
+        <Line LineDateTime="2012-03-12 07:05:32.098" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:32.098">ANYONE RESPONSIBLE, THEY THINK</Line>
+        <Line LineDateTime="2012-03-12 07:05:33.000" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:33.000">BE HELD FULLY ACCOUNTABLE,</Line>
+        <Line LineDateTime="2012-03-12 07:05:33.099" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:33.099">IT'S JUST THIS ONE SOLDIER, WILL</Line>
+        <Line LineDateTime="2012-03-12 07:05:34.001" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:34.001">ROBIN.</Line>
+        <Line LineDateTime="2012-03-12 07:05:39.002" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:39.002">&gt;&gt; JAKE, ON THE HEELS OF THE</Line>
+        <Line LineDateTime="2012-03-12 07:05:41.003" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:41.003">KORAN BURNINGS JUST RECENTLY,</Line>
+        <Line LineDateTime="2012-03-12 07:05:42.004" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:42.004">AND NOW THIS, WHAT ARE THE MAJOR</Line>
+        <Line LineDateTime="2012-03-12 07:05:44.005" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:44.005">CONCERNS OF THE WHITE HOUSE</Line>
+        <Line LineDateTime="2012-03-12 07:05:44.006" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:44.006">GOING FORWARD AS FAR AS</Line>
+        <Line LineDateTime="2012-03-12 07:05:46.007" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:46.007">IMPLICATIONS CONCERNED?</Line>
+        <Line LineDateTime="2012-03-12 07:05:47.008" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:47.008">&gt;&gt; Reporter: WELL, THEY'RE</Line>
+        <Line LineDateTime="2012-03-12 07:05:48.009" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:48.009">WORRIED ABOUT THIS.</Line>
+        <Line LineDateTime="2012-03-12 07:05:52.010" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:52.010">THIS COULD BE A TIPPING POINT.</Line>
+        <Line LineDateTime="2012-03-12 07:05:55.011" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:55.011">THIS COULD BE AN INCIDENT THAT</Line>
+        <Line LineDateTime="2012-03-12 07:05:56.012" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:56.012">INFLAMES THE ENTIRE REGION,</Line>
+        <Line LineDateTime="2012-03-12 07:05:58.013" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:58.013">PERHAPS THE ENTIRE COUNTRY.</Line>
+        <Line LineDateTime="2012-03-12 07:05:59.014" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:05:59.014">THEIR JOB IS TO SEE THAT THAT</Line>
+        <Line LineDateTime="2012-03-12 07:06:00.015" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:00.015">DOES NOT HAPPEN.</Line>
+        <Line LineDateTime="2012-03-12 07:06:01.016" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:01.016">SO THE MESSAGE THEY'RE</Line>
+        <Line LineDateTime="2012-03-12 07:06:02.017" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:02.017">DELIVERING RIGHT NOW IS THAT</Line>
+        <Line LineDateTime="2012-03-12 07:06:02.018" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:02.018">THEY CAN WORK THROUGH THIS, THEY</Line>
+        <Line LineDateTime="2012-03-12 07:06:04.019" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:04.019">CAN GET THROUGH THIS HORRIBLE,</Line>
+        <Line LineDateTime="2012-03-12 07:06:05.020" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:05.020">HORRIFIC INCIDENT IF THE UNITED</Line>
+        <Line LineDateTime="2012-03-12 07:06:06.021" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:06.021">STATES GET FOCUSED ON THE LARGER</Line>
+        <Line LineDateTime="2012-03-12 07:06:07.022" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:07.022">PICTURE.</Line>
+        <Line LineDateTime="2012-03-12 07:06:09.023" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:09.023">THEY POINT OUT EVEN AFTER THE</Line>
+        <Line LineDateTime="2012-03-12 07:06:10.024" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:10.024">KORAN BURNING THE U.S. AND</Line>
+        <Line LineDateTime="2012-03-12 07:06:11.025" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:11.025">AFGHAN GOVERNMENT WERE ABLE TO</Line>
+        <Line LineDateTime="2012-03-12 07:06:15.026" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:15.026">COME TO AN ARRANGEMENT WHEN IT</Line>
+        <Line LineDateTime="2012-03-12 07:06:18.027" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:18.027">CAME TO DETENTION FACILITIES.</Line>
+        <Line LineDateTime="2012-03-12 07:06:21.028" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:21.028">THEY WERE ABLE TO WORK THROUGH</Line>
+        <Line LineDateTime="2012-03-12 07:06:24.029" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:24.029">THAT PROCESS EVEN IN THE</Line>
+        <Line LineDateTime="2012-03-12 07:06:25.030" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:25.030">AFTERMATH OF THIS ONE, ROBIN.</Line>
+        <Line LineDateTime="2012-03-12 07:06:26.031" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:26.031">&gt;&gt; SO TRAGIC.</Line>
+        <Line LineDateTime="2012-03-12 07:06:27.032" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:27.032">ALL RIGHT.</Line>
+        <Line LineDateTime="2012-03-12 07:06:27.033" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:27.033">JAKE, THANK YOU VERY MUCH.</Line>
+        <Line LineDateTime="2012-03-12 07:06:28.034" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:28.034">JOSH ELLIOTT WITH THE TOP</Line>
+        <Line LineDateTime="2012-03-12 07:06:29.035" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:29.035">STORIES.</Line>
+        <Line LineDateTime="2012-03-12 07:06:29.036" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:29.036">&gt;&gt; GOOD MORNING TO ALL OF YOU.</Line>
+        <Line LineDateTime="2012-03-12 07:06:33.037" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:33.037">WE BEGIN WITH COAST GUARD CREWS</Line>
+        <Line LineDateTime="2012-03-12 07:06:35.038" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:35.038">PATROLLING THE PACIFIC COASTLINE</Line>
+        <Line LineDateTime="2012-03-12 07:06:37.039" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:37.039">THIS HOUR, STUMPED OVER THE</Line>
+        <Line LineDateTime="2012-03-12 07:06:38.040" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:38.040">THE MYSTERIOUS DISAPPEARANCE OF</Line>
+        <Line LineDateTime="2012-03-12 07:06:39.041" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:39.041">EIGHT FISHERMEN IN TWO SEPARATE</Line>
+        <Line LineDateTime="2012-03-12 07:06:42.042" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:42.042">LOCATIONS.</Line>
+        <Line LineDateTime="2012-03-12 07:06:44.043" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:44.043">THIS MORNING THEY'LL HEAD INTO</Line>
+        <Line LineDateTime="2012-03-12 07:06:49.044" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:49.044">THE NOTORIOUSLY CHOPPY WATER OFF</Line>
+        <Line LineDateTime="2012-03-12 07:06:53.045" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:53.045">SANTA BARBARA, CALIFORNIA.</Line>
+        <Line LineDateTime="2012-03-12 07:06:54.046" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:54.046">THEY'RE HOPING TO FOUND THE</Line>
+        <Line LineDateTime="2012-03-12 07:06:56.047" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:56.047">BODIES.</Line>
+        <Line LineDateTime="2012-03-12 07:06:56.048" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:56.048">THE FOUR MEN ON BOARD HAVE</Line>
+        <Line LineDateTime="2012-03-12 07:06:57.049" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:57.049">FAILED TO RETURN FROM A SUNDAY</Line>
+        <Line LineDateTime="2012-03-12 07:06:58.050" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:58.050">FISHING TRIP.</Line>
+        <Line LineDateTime="2012-03-12 07:06:58.051" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:58.051">&gt;&gt; MEANWHILE, FURTHER NORTH,</Line>
+        <Line LineDateTime="2012-03-12 07:06:59.052" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:06:59.052">THE STORM OFF OF WASHINGTON MAY</Line>
+        <Line LineDateTime="2012-03-12 07:07:00.053" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:07:00.053">BE THE BLAME FOR THE</Line>
+        <Line LineDateTime="2012-03-12 07:07:00.054" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:07:00.054">DISAPPEARANCE OF ANOTHER FOUR</Line>
+        <Line LineDateTime="2012-03-12 07:07:01.055" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:07:01.055">FISHERMEN WHO VANISHED AFTER</Line>
+        <Line LineDateTime="2012-03-12 07:07:03.056" StationGUID="KABC" StationID="785" UTCDelta="-25200" UTCLineDateTime="03/12/2012 14:07:03.056">SENDING AN S.O.S. BEACON.</Line>
+      </Lines>
+    </Page>
+  </Body>
+</Message>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Message>
+<Header>	
+	<streamId></streamId>
+	<accessToken></accessToken>
+</Header>
+<Body>
+<docs>		
+		<story>Said Mahmoudi shared a link.</story>		
+		<from>
+			<name>Said Mahmoudi</name>
+			<id>200000000002880</id>
+		</from>
+		
+</docs>		
+<docs>		
+		<story>Said Mahmoudi shared a link.</story>		
+		<from>
+			<name>Said Mahmoudi</name>
+			<id>200000000002880</id>
+		</from>
+		
+</docs>	
+<docs>		
+		<story>Said Mahmoudi shared a link.</story>		
+		<from>
+			<name>Said Mahmoudi</name>
+			<id>200000000002880</id>
+		</from>
+		
+</docs>		
+</Body>
+</Message>

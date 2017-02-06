@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block head %}
+    
+{% end %}
+
+{% block body %}
+  <h3>{{ escape(handler.settings["app_title"]) }} Get Logs</h3>
+  <div id="logsFormBox">
+  
+  	Stream ID: <input type="text" name="streamId" id="streamIdLogs"/>
+  	<br/>
+  	Access Token: <input type="text" name="accessToken" id="accessTokenLogs"/>
+  	<br/>
+  	Status: <input  type="text" name="status" id="statusToken"/>
+  	<br/>
+  	 <button id="getLogs" >GET LOGS</button>
+  		<br/>
+  	 <button id="createNewToken">Create Token</button>
+  	 <button id="validateNewToken">Validate Token</button>
+  </div>
+  
+  <h3>{{ escape(handler.settings["app_title"]) }} Push Form</h3>
+  <div id="pushFormBox">
+  
+  	Stream ID: <input type="text" name="streamId" id="streamId"/>
+  	<br/>
+  	Access Token: <input type="text" name="accessToken" id="accessToken">
+  	<br/>
+  	<button id="testPush100" >Test Push 100</button>
+  	 <button id="testPush1000" >Test Push 1000</button>
+  	<h3>Documents <a id="addDocumentEvent" style="color: blue;">Add Document</a></h3>
+	<div id="documentBox">
+		
+	</div>  	
+  	 <button id="pushAsJson" >Push As JSON</button>
+  	 <button id="pushAsXml" >Push As XML</button>
+  
+  </div>
+  
+{% end %}
+
+{% block bottom %}
+    <script src="{{ static_url("js/src/testpush.js") }}" type="text/javascript"></script>
+{% end %}

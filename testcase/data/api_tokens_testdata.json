@@ -1,0 +1,37 @@
+{
+   "_id": "b670ad4b3222332421c683e12a000444",
+   "_rev": "5-4a956a02bb54e6b8a70410e598aa654e",
+   "streams": [
+       {
+           "status": "active",
+           "createdTime": "2014-03-09T20:53:04.210571",
+           "lastUpdatedTime": "2014-03-09T20:53:04.210622",
+           "streamId": "111-111"
+       },
+       {
+           "status": "active",
+           "createdTime": "2014-03-09T20:53:10.622977",
+           "lastUpdatedTime": "2014-03-09T20:53:10.623046",
+           "streamId": "222-222"
+       },
+       {
+           "status": "ACTIVE",
+           "createdTime": "2014-03-09T20:53:34.978841",
+           "lastUpdatedTime": "2014-03-09T20:53:34.978886",
+           "streamId": "333-333"
+       },
+       {
+           "status": "INACTIVE",
+           "createdTime": "2014-03-09T20:54:05.322873",
+           "lastUpdatedTime": "2014-03-09T20:54:05.322933",
+           "streamId": "444-444"
+       },
+       {
+           "status": "ACTIVE",
+           "createdTime": "2014-03-09T23:41:36.598887",
+           "lastUpdatedTime": "2014-03-09T23:41:36.598944",
+           "streamId": "1321-1321"
+       }
+   ],
+   "token": "e19dedf7-d9c4-475d-bd64-77898c5d7dd1"
+}
